@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/GiftAdaeze/GiftAdaeze/blob/2664d4388b74d047e9d29b58fd7bd68234506df4/masterhead.jpg)
 <h1 align="center">Hello 👋, I'm Gift Adaeze</h1>
 <h3 align="center">Cybersecurity student | Analyst-in-training | Aspiring Cloud Security Engineer</h3>
 <p align="center">
