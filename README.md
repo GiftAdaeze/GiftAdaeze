@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gift Adaeze.</h1>
-<h3 align="center">Cybersecurity student | Analyst-in-training | Aspiring Cloud Security Engineer</h3>
+<h3 align="center">Cybersecurity student | Cloud Security Engineering</h3>
 <p align="center">
   <img alt="Cybersecurity" width="75%" src="https://www.silextechnology.com/hubfs/Blog_Images/1_ktMRyTnut5YK_0LoEJebUA.gif">
 </p>
