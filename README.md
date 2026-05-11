@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm <strong>Gift Anekwe</strong></h1>
-<h1 align="center">Securing software, one line of code at a time</h1>
+<h1 align="center"><strong>Hi, I'm Gift Anekwe 👋</strong></h1>
+<h1 align="center">Cybersecurity | GRC & Risk Management | SOC Analysis | Africa-focused Cyber Policy</h1>
 <p align="center">
   <img alt="Cybersecurity" width="75%" src="https://www.silextechnology.com/hubfs/Blog_Images/1_ktMRyTnut5YK_0LoEJebUA.gif">
 </p>
@@ -8,28 +8,48 @@
 
 ---
 
-**Python | Secure Coding | OWASP Top 10**  
-Experimenting, automating, and hardening applications to make software **robust by default**.
+## About Me
+
+I am a 300L Cybersecurity student at the Federal University of Technology, Owerri (FUTO), Nigeria, building toward a career at the intersection of security operations, governance, risk, and compliance.
+
+My focus is on the side of cybersecurity that determines whether organisations survive a crisis — not just detecting threats, but governing how institutions respond to, manage, and prevent them at a strategic level.
+
+I passed the ISC2 Certified in Cybersecurity (CC) exam and hold the Google Career Certificate in Cybersecurity. I have been shortlisted for the ICDFA Foundation GRC Engineering scholarship. My next certification milestone is CISA.
 
 ---
 
-## 🔒 About Me
-I’m a **300L Cybersecurity student** at the **Federal University of Technology, Owerri, Nigeria**, passionate about **Application Security**. I focus on:
+## What I Am Building Toward
 
-- **Secure software development**  
-- **Vulnerability assessment & threat modeling**  
-- **Automation for AppSec tasks**  
+Most cybersecurity professionals operate at the technical layer. That is good, but contrary to geenral opinion, I aim to build on the governance and policy layer — where security decisions are made for entire organisations, governments, and institutions.
 
-I enjoy **reading, breaking, and hardening code**, turning real-world security challenges into **practical, hands-on solutions**.
+Africa's digital infrastructure is expanding faster than its cybersecurity governance frameworks can keep up with. That gap is where I intend to work.
 
 ---
 
-## 🛠 Skills & Tools
-- **Languages:** Python, SQL (learning Java/JS later)  
-- **Security Tools:** OWASP Top 10, Burp Suite, basic scripts for automation  
-- **Focus Areas:** Authentication, Input Validation, Secure Coding, Vulnerability Analysis
+## Current Focus Areas
+
+- Security Operations and Incident Response — SIEM, alert triage, log analysis, MITRE ATT&CK
+- GRC Frameworks — NIST CSF 2.0, ISO 27001, Nigeria's NDPR
+- Threat Intelligence and Indicators of Compromise
+- Risk Management and Compliance in Financial Services
 
 ---
 
-## 🌟 Vision
-To become a globally recognized **Application Security engineer**, building software that **protects users and systems worldwide**, while constantly learning and applying the latest security practices.
+## Frameworks and Tools
+
+NIST CSF 2.0 | ISO 27001 | NDPR | MITRE ATT&CK | Splunk | SIEM platforms | Incident Response (NIST SP 800-61)
+
+---
+
+## Certifications
+
+- ISC2 Certified in Cybersecurity (CC) — Exam Passed
+- Google Career Certificate in Cybersecurity — Completed
+- Working toward: CISA (Certified Information Systems Auditor)
+
+---
+
+## Connect
+
+LinkedIn: linkedin.com/in/giftanekwe
+Location: Owerri, Nigeria
